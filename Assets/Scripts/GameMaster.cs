@@ -22,7 +22,7 @@ public class GameMaster : MonoBehaviour
     private void Start()
     {
         Setup();
-        // Debug.Log("Start");
+        // Debug.Log("Start");あ
     }
 
     //カードを生成して配る
