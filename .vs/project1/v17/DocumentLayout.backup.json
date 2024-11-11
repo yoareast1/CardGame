@@ -3,48 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\stuwh\\project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|C:\\Users\\stuwh\\project1\\assets\\scripts\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stuwh\\project1\\Library\\PackageCache\\com.unity.2d.pixel-perfect\\Editor\\Converter\\U2DToURPPixelPerfectConverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.pixel-perfect\\Editor\\Converter\\U2DToURPPixelPerfectConverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|C:\\Users\\stuwh\\project1\\assets\\scripts\\battlers\\battler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battlers\\battler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stuwh\\project1\\Library\\PackageCache\\com.unity.2d.animation\\Runtime\\SpriteSkinUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.animation\\Runtime\\SpriteSkinUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|C:\\Users\\stuwh\\project1\\assets\\scripts\\gamemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stuwh\\project1\\Library\\PackageCache\\com.unity.2d.aseprite\\Editor\\AssetGeneration\\PrefabGeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.aseprite\\Editor\\AssetGeneration\\PrefabGeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|c:\\users\\stuwh\\project1\\assets\\scripts\\submitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\submitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stuwh\\project1\\Assets\\Scripts\\GameUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|c:\\users\\stuwh\\project1\\assets\\scripts\\battlers\\submitposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battlers\\submitposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stuwh\\project1\\Assets\\Scripts\\SubmitButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SubmitButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|C:\\Users\\stuwh\\project1\\assets\\scripts\\cards\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cards\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stuwh\\project1\\Assets\\Scripts\\Title\\TitleManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Title\\TitleManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|C:\\Users\\stuwh\\project1\\assets\\scripts\\cards\\cardgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cards\\cardgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stuwh\\project1\\Assets\\Scripts\\RuleBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\RuleBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|C:\\Users\\stuwh\\project1\\assets\\scripts\\battlers\\battlerhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battlers\\battlerhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stuwh\\project1\\Assets\\Scripts\\Battlers\\SubmitPosition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Battlers\\SubmitPosition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|C:\\Users\\stuwh\\project1\\assets\\scripts\\cards\\cardbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cards\\cardbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stuwh\\project1\\Assets\\Scripts\\Cards\\CardBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Cards\\CardBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|C:\\Users\\stuwh\\project1\\assets\\scripts\\rulebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rulebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stuwh\\project1\\Assets\\Scripts\\Battlers\\BattlerHand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Battlers\\BattlerHand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|C:\\Users\\stuwh\\project1\\assets\\scripts\\title\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E66FED68-071E-F0AC-3037-51659F892569}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\title\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stuwh\\project1\\Assets\\Scripts\\Cards\\CardGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Cards\\CardGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stuwh\\project1\\Assets\\Scripts\\Cards\\Card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Cards\\Card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stuwh\\project1\\Assets\\Scripts\\Battlers\\Battler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Battlers\\Battler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\stuwh\\project1\\Assets\\Scripts\\GameMaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameMaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +66,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "SpriteSkinUtility.cs",
+              "DocumentMoniker": "C:\\Users\\stuwh\\project1\\Library\\PackageCache\\com.unity.2d.animation\\Runtime\\SpriteSkinUtility.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.animation\\Runtime\\SpriteSkinUtility.cs",
+              "ToolTip": "C:\\Users\\stuwh\\project1\\Library\\PackageCache\\com.unity.2d.animation\\Runtime\\SpriteSkinUtility.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.animation\\Runtime\\SpriteSkinUtility.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:51:50.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrefabGeneration.cs",
+              "DocumentMoniker": "C:\\Users\\stuwh\\project1\\Library\\PackageCache\\com.unity.2d.aseprite\\Editor\\AssetGeneration\\PrefabGeneration.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.aseprite\\Editor\\AssetGeneration\\PrefabGeneration.cs",
+              "ToolTip": "C:\\Users\\stuwh\\project1\\Library\\PackageCache\\com.unity.2d.aseprite\\Editor\\AssetGeneration\\PrefabGeneration.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.aseprite\\Editor\\AssetGeneration\\PrefabGeneration.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwFsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:46:27.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "U2DToURPPixelPerfectConverter.cs",
+              "DocumentMoniker": "C:\\Users\\stuwh\\project1\\Library\\PackageCache\\com.unity.2d.pixel-perfect\\Editor\\Converter\\U2DToURPPixelPerfectConverter.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.pixel-perfect\\Editor\\Converter\\U2DToURPPixelPerfectConverter.cs",
+              "ToolTip": "C:\\Users\\stuwh\\project1\\Library\\PackageCache\\com.unity.2d.pixel-perfect\\Editor\\Converter\\U2DToURPPixelPerfectConverter.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.pixel-perfect\\Editor\\Converter\\U2DToURPPixelPerfectConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:45:19.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SubmitButton.cs",
               "DocumentMoniker": "C:\\Users\\stuwh\\project1\\Assets\\Scripts\\SubmitButton.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SubmitButton.cs",
@@ -66,12 +117,11 @@
               "RelativeToolTip": "Assets\\Scripts\\SubmitButton.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T13:34:42.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T13:34:42.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "TitleManager.cs",
               "DocumentMoniker": "C:\\Users\\stuwh\\project1\\Assets\\Scripts\\Title\\TitleManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Title\\TitleManager.cs",
@@ -83,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "RuleBook.cs",
               "DocumentMoniker": "C:\\Users\\stuwh\\project1\\Assets\\Scripts\\RuleBook.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RuleBook.cs",
@@ -95,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "SubmitPosition.cs",
               "DocumentMoniker": "C:\\Users\\stuwh\\project1\\Assets\\Scripts\\Battlers\\SubmitPosition.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Battlers\\SubmitPosition.cs",
@@ -103,8 +153,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Battlers\\SubmitPosition.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T13:46:36.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T13:46:36.595Z"
             },
             {
               "$type": "Document",
@@ -120,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "BattlerHand.cs",
               "DocumentMoniker": "C:\\Users\\stuwh\\project1\\Assets\\Scripts\\Battlers\\BattlerHand.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Battlers\\BattlerHand.cs",
@@ -132,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "CardGenerator.cs",
               "DocumentMoniker": "C:\\Users\\stuwh\\project1\\Assets\\Scripts\\Cards\\CardGenerator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Cards\\CardGenerator.cs",
@@ -144,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\stuwh\\project1\\Assets\\Scripts\\Cards\\Card.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Cards\\Card.cs",
@@ -156,33 +205,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Battler.cs",
               "DocumentMoniker": "C:\\Users\\stuwh\\project1\\Assets\\Scripts\\Battlers\\Battler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Battlers\\Battler.cs",
               "ToolTip": "C:\\Users\\stuwh\\project1\\Assets\\Scripts\\Battlers\\Battler.cs",
               "RelativeToolTip": "Assets\\Scripts\\Battlers\\Battler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T13:54:34.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T13:54:34.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "GameUI.cs",
               "DocumentMoniker": "C:\\Users\\stuwh\\project1\\Assets\\Scripts\\GameUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameUI.cs",
               "ToolTip": "C:\\Users\\stuwh\\project1\\Assets\\Scripts\\GameUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T13:46:12.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T13:46:12.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "GameMaster.cs",
               "DocumentMoniker": "C:\\Users\\stuwh\\project1\\Assets\\Scripts\\GameMaster.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameMaster.cs",
@@ -190,8 +236,7 @@
               "RelativeToolTip": "Assets\\Scripts\\GameMaster.cs",
               "ViewState": "AgIAAGoAAAAAAAAAAAAgwIkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T13:46:01.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T13:46:01.994Z"
             }
           ]
         }
